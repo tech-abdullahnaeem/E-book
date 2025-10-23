@@ -1,0 +1,20 @@
+Topic: Machine Learning Fundamentals
+Section: Neural Networks Architecture
+Genre: technology
+Content Type: system
+
+======================================================================
+DETAILED PROMPT:
+======================================================================
+
+A digital illustration, aspect ratio 16:9, showcasing a neural network architecture in a futuristic, minimalist style. The overall composition follows the rule of thirds, placing the focal point, a central processing node, at coordinates approximately (0.66, 0.5). The foreground contains stylized input data streams represented by thin, electric cyan (#00d9ff) lines converging towards the first layer of nodes. The midground features the core neural network structure: three interconnected layers of nodes, each node represented by a silver (#c0c0c0) sphere with a subtle neon cyan glow. The background fades into a deep navy blue (#1a1f3a) gradient, transitioning to a subtle purple (#8b5cf6) at the extreme edges to create depth. Significant negative space surrounds the architecture, emphasizing its sleek design.
+
+Key colors are implemented with precise control: the base navy blue (#1a1f3a) has a brightness level of 20%, and the electric cyan (#00d9ff) has a saturation of 90%. The silver (#c0c0c0) elements possess a metallic sheen achieved through subtle white (#ffffff) highlights. Color gradients are used extensively, particularly in the background and for node connections, with smooth transitions.
+
+Lighting is paramount, featuring a primary light source positioned above and slightly behind the central node, creating dramatic highlights on the silver spheres. Rim lighting, using electric cyan (#00d9ff), accentuates the edges of the nodes, enhancing their three-dimensionality. Shadows are soft and diffused, originating from the nodes and casting subtle gradients onto the underlying layers. A secondary, soft ambient blue light emanates from below, subtly illuminating the lower portions of the network. Lens flares, small and strategically placed, add a digital, futuristic feel.
+
+The visual elements include stylized data packets represented by glowing cyan cubes flowing along the input streams. The interconnected layers are arranged hierarchically, with the input layer at the bottom, hidden layers in the middle, and the output layer at the top. Each node is connected to the others via thin, semi-transparent lines that pulse with electric cyan. A digital grid overlay, subtly visible, spans the entire illustration, reinforcing the technological theme. The central processing node is slightly larger than the others, serving as the visual anchor. The architecture should be detailed with micro-circuitry patterns etched into the silver spheres.
+
+The rendering technique is a blend of vector and illustrative styles, prioritizing clean lines and geometric precision. Line work is crisp and sharp, defining the edges of the nodes and data streams. Texture is applied through subtle gradients and highlights, creating a glossy metallic surface on the spheres and a matte carbon fiber texture on the background support structures. The style references minimalist tech art with inspiration from isometric design.
+
+Technically, the illustration should be rendered at a resolution of 4096x2304 pixels with high-quality anti-aliasing. Depth of field is shallow, focusing sharply on the central node and gradually blurring the background elements. The viewing angle is a slightly elevated isometric perspective, providing a clear view of the network's layered structure. Material properties emphasize metallic reflections and translucent glass effects. Edge definition is generally sharp, but softened slightly around the light sources to create a realistic glow.

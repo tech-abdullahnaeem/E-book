@@ -1,0 +1,50 @@
+======================================================================
+HIGH-QUALITY IMAGE GENERATION PROMPTS
+======================================================================
+
+Generated: October 22, 2025 at 17:36:34
+Topic: Machine Learning Fundamentals
+Section: Model Training and Optimization Process
+
+======================================================================
+READY-TO-USE PROMPTS
+======================================================================
+
+## AI Image Generation Prompts: Model Training & Optimization
+
+Here are four optimized prompts, one for each specified AI image generation tool, tailored for illustrating the "Model Training and Optimization Process" section of a Machine Learning Fundamentals ebook.
+
+### 1. DALL-E 3 PROMPT
+
+A futuristic, abstract representation of machine learning model training. The image depicts a complex network of interconnected nodes glowing with cyan light, surrounded by streams of data represented as flowing silver gradients, all bathed in a soft, deep blue ambient light, conveying an atmosphere of sophisticated technology and iterative improvement. The overall mood is innovative and professional, suitable for an educational technology ebook.
+
+### 2. MIDJOURNEY PROMPT
+
+futuristic neural network model training, iterative optimization process, data streams flowing, interconnected glowing nodes, deep blue and cyan color palette, silver gradients, soft ambient lighting, digital glow effects, sleek tech aesthetic, innovation, cutting-edge --ar 16:9 --style raw --v 6 --quality 2
+
+### 3. STABLE DIFFUSION PROMPT
+
+masterpiece, best quality, highly detailed, 8k, professional, model training, optimization process, machine learning, neural network, iterative improvement, interconnected nodes, data streams, deep blue background, cyan glow, silver gradients, sleek design, futuristic tech aesthetic, soft ambient lighting, computational process, flow visualization, complex system
+
+Negative prompt: blurry, text, watermarks, signatures, low resolution, distortions, errors, noisy, artifacts, people
+
+Style: Digital Art, Photorealistic
+
+### 4. LEONARDO.AI PROMPT
+
+A visually compelling representation of model training. The image shows a dynamic process of optimization with glowing neural connections and data flows. Color scheme is deep blue and cyan with silver highlights, creating a sense of modern technology and iterative learning. The composition should be sharp and clean, with high detail and a professional, educational feel.
+
+
+======================================================================
+USAGE INSTRUCTIONS
+======================================================================
+
+1. Choose your preferred AI image generation tool
+2. Copy the corresponding prompt above
+3. Paste into the tool (DALL-E, Midjourney, Stable Diffusion, or Leonardo)
+4. Generate the image
+5. Download and use in your ebook
+
+TIP: For Midjourney, paste the entire prompt including --parameters
+TIP: For Stable Diffusion, use both positive and negative prompts
+TIP: For best results, generate 2-3 variations and pick the best

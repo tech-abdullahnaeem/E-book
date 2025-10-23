@@ -1,0 +1,50 @@
+======================================================================
+HIGH-QUALITY IMAGE GENERATION PROMPTS
+======================================================================
+
+Generated: October 22, 2025 at 17:36:13
+Topic: Machine Learning Fundamentals
+Section: Introduction to Neural Networks
+
+======================================================================
+READY-TO-USE PROMPTS
+======================================================================
+
+## AI Image Generation Prompts: Neural Networks Introduction
+
+Here are four optimized prompts for generating images illustrating the "Introduction to Neural Networks" section of a machine learning ebook, tailored for different AI image generation tools:
+
+**1. DALL-E 3 PROMPT**
+
+A futuristic representation of a neural network, depicted as interconnected nodes glowing with cyan and white light against a deep blue background. Visualize the network's layers as translucent geometric forms, conveying the flow of information through the system. The overall mood should be innovative, sophisticated, and cutting-edge, representing advanced technology.
+
+**2. MIDJOURNEY PROMPT**
+
+Neural network visualization, interconnected nodes, digital glow, cyan highlights, deep blue background, layered abstract geometry, data flow, futuristic technology, sleek design, soft ambient lighting, silver gradients, intricate details, 8k, photorealistic 3D rendering --ar 16:9 --style raw --v 6 --quality 2
+
+**3. STABLE DIFFUSION PROMPT**
+
+masterpiece, best quality, highly detailed, 8k, professional, neural network, artificial intelligence, interconnected nodes, synapses, digital network, blue color scheme, cyan highlights, soft lighting, silver accents, futuristic, abstract data flow, geometric shapes, translucent layers
+
+Negative prompt: blurry, low quality, artifacts, text, letters, watermark, logo, cartoon, anime, people, faces, errors, distortion, ugly
+
+Art style: Sci-fi visualization, digital rendering
+
+**4. LEONARDO.AI PROMPT**
+
+Create a stunning visualization of a neural network as an abstract and futuristic circuit. Focus on interconnected glowing nodes in cyan and white against a deep blue backdrop, layered with geometric elements to represent the flow of data. The style should be sleek and modern, with soft ambient lighting and silver gradients. High resolution, professional quality. Composition: Wide angle, 16:9 aspect ratio.
+
+
+======================================================================
+USAGE INSTRUCTIONS
+======================================================================
+
+1. Choose your preferred AI image generation tool
+2. Copy the corresponding prompt above
+3. Paste into the tool (DALL-E, Midjourney, Stable Diffusion, or Leonardo)
+4. Generate the image
+5. Download and use in your ebook
+
+TIP: For Midjourney, paste the entire prompt including --parameters
+TIP: For Stable Diffusion, use both positive and negative prompts
+TIP: For best results, generate 2-3 variations and pick the best

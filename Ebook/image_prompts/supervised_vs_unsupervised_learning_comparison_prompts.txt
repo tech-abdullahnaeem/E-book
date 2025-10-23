@@ -1,0 +1,48 @@
+======================================================================
+HIGH-QUALITY IMAGE GENERATION PROMPTS
+======================================================================
+
+Generated: October 22, 2025 at 17:36:20
+Topic: Machine Learning Fundamentals
+Section: Supervised vs Unsupervised Learning Comparison
+
+======================================================================
+READY-TO-USE PROMPTS
+======================================================================
+
+## AI Image Generation Prompts: Supervised vs Unsupervised Learning
+
+Here are the 4 optimized prompts for different AI image generation tools, tailored for an ebook section comparing Supervised and Unsupervised Learning.
+
+**1. DALL-E 3 PROMPT (OpenAI)**
+
+A sleek, modern illustration depicting the core difference between supervised and unsupervised learning. On the left, a digital brain is learning to categorize labeled data (represented as colored icons), showing supervised learning; on the right, the same brain is clustering unlabeled data based on inherent patterns, showcasing unsupervised learning. The background features a gradient of deep blues and cyan, conveying a futuristic tech aesthetic with soft, ambient lighting and subtle digital glow effects.
+
+**2. MIDJOURNEY PROMPT (Discord Bot)**
+
+Supervised vs Unsupervised Learning, digital brain processing data, labeled datasets, unlabeled datasets, clustering, classification, neural network visualization, data science concept, futuristic tech aesthetic, soft ambient lighting, deep blues, cyan, white, silver gradients, innovation, cutting-edge, sophisticated, professional --ar 16:9 --style raw --v 6 --quality 2
+
+**3. STABLE DIFFUSION PROMPT (Automatic1111/ComfyUI)**
+
+Supervised learning, unsupervised learning, data clustering, data classification, labeled data, unlabeled data, neural network, digital brain, machine learning concept, data visualization, deep blue, cyan, silver gradient, soft ambient lighting, digital glow, futuristic, technology, professional, 8k, masterpiece, best quality, highly detailed, photorealistic
+
+Negative prompt: text, watermark, signature, blurry, low quality, artifacts, distortions
+
+**4. LEONARDO.AI PROMPT (User-friendly platform)**
+
+Create a sleek, high-quality illustration comparing supervised and unsupervised machine learning. The image should show a digital brain separating labeled and unlabeled datasets, with a focus on data clustering and classification concepts. Use deep blues and cyan for the color palette, and add a soft, futuristic lighting effect to highlight the technology aspect. Composition: split screen, showcasing each learning type distinctly. Style: modern tech, high detail. Quality: 8K photorealistic.
+
+
+======================================================================
+USAGE INSTRUCTIONS
+======================================================================
+
+1. Choose your preferred AI image generation tool
+2. Copy the corresponding prompt above
+3. Paste into the tool (DALL-E, Midjourney, Stable Diffusion, or Leonardo)
+4. Generate the image
+5. Download and use in your ebook
+
+TIP: For Midjourney, paste the entire prompt including --parameters
+TIP: For Stable Diffusion, use both positive and negative prompts
+TIP: For best results, generate 2-3 variations and pick the best

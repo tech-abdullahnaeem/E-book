@@ -1,0 +1,48 @@
+======================================================================
+HIGH-QUALITY IMAGE GENERATION PROMPTS
+======================================================================
+
+Generated: October 22, 2025 at 17:36:27
+Topic: Machine Learning Fundamentals
+Section: Deep Learning Architecture and Layers
+
+======================================================================
+READY-TO-USE PROMPTS
+======================================================================
+
+Here are the four optimized prompts for AI image generation tools, focusing on the theme of "Deep Learning Architecture and Layers," tailored to the specific requirements of each platform:
+
+**1. DALL-E 3 PROMPT**
+
+A sleek, futuristic visualization of a deep learning neural network architecture. It features interconnected layers represented as glowing, abstract nodes arranged in a structured hierarchy, with soft blue and cyan digital glows illuminating the scene. The image evokes a sense of innovative technology and sophistication, with a clean, modern aesthetic suitable for an educational ebook on Machine Learning Fundamentals.
+
+**2. MIDJOURNEY PROMPT**
+
+abstract deep learning neural network layers interconnected, futuristic architecture, digital glow, deep blues, cyan, white, silver gradients, clean lines, photorealistic 3D rendering, soft ambient lighting, innovative, sophisticated, educational technology --ar 16:9 --style raw --v 6 --quality 2
+
+**3. STABLE DIFFUSION PROMPT**
+
+deep learning architecture, neural network layers, interconnected nodes, digital glow, futuristic, abstract, machine learning, blue, cyan, silver gradient, clean lines, 3d render, soft ambient light, educational illustration, masterpiece, best quality, highly detailed, 8k, professional
+
+Negative prompt: blur, text, watermark, signature, low quality, artifacts, grainy, ugly, deformed, distorted
+
+Style: science fiction, high tech
+
+**4. LEONARDO.AI PROMPT**
+
+Create a visually stunning representation of deep learning architecture. It should depict interconnected neural network layers with a futuristic design, using a color palette of deep blues, cyan, and white to create a sense of digital innovation. The composition should emphasize the hierarchical structure of the network, and the overall style should be sleek, modern, and suitable for an educational tech ebook. High quality, photorealistic rendering.
+
+
+======================================================================
+USAGE INSTRUCTIONS
+======================================================================
+
+1. Choose your preferred AI image generation tool
+2. Copy the corresponding prompt above
+3. Paste into the tool (DALL-E, Midjourney, Stable Diffusion, or Leonardo)
+4. Generate the image
+5. Download and use in your ebook
+
+TIP: For Midjourney, paste the entire prompt including --parameters
+TIP: For Stable Diffusion, use both positive and negative prompts
+TIP: For best results, generate 2-3 variations and pick the best
