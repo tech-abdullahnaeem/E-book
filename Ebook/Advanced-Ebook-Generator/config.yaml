@@ -1,0 +1,118 @@
+# Advanced E-Book Generator Configuration
+
+# General Settings
+app:
+  name: "Advanced E-Book Generator"
+  version: "2.0.0"
+  author: "AI Ebook Creator"
+
+# Genre Configurations
+genres:
+  technology:
+    tone: "technical and innovative"
+    keywords: ["innovation", "digital transformation", "cutting-edge", "AI", "automation"]
+    color_scheme: "blue and silver"
+    
+  healthcare:
+    tone: "professional and compassionate"
+    keywords: ["medical", "patient care", "clinical", "diagnosis", "treatment"]
+    color_scheme: "medical blue and white"
+    
+  business:
+    tone: "professional and authoritative"
+    keywords: ["strategy", "leadership", "growth", "ROI", "market"]
+    color_scheme: "navy and gold"
+    
+  science:
+    tone: "analytical and educational"
+    keywords: ["research", "evidence-based", "methodology", "hypothesis", "discovery"]
+    color_scheme: "blue and green"
+    
+  education:
+    tone: "clear and instructional"
+    keywords: ["learning", "teaching", "pedagogy", "student success", "curriculum"]
+    color_scheme: "orange and blue"
+    
+  finance:
+    tone: "precise and data-driven"
+    keywords: ["investment", "market analysis", "financial planning", "wealth", "portfolio"]
+    color_scheme: "green and gold"
+    
+  self-help:
+    tone: "motivational and empowering"
+    keywords: ["personal growth", "transformation", "success", "mindset", "achievement"]
+    color_scheme: "warm and inspiring"
+
+# Book Length Presets
+book_length:
+  short:
+    min_chapters: 3
+    max_chapters: 5
+    words_per_section: 800
+    subsections: 2
+    
+  medium:
+    min_chapters: 5
+    max_chapters: 7
+    words_per_section: 1200
+    subsections: 3
+    
+  long:
+    min_chapters: 7
+    max_chapters: 10
+    words_per_section: 1800
+    subsections: 4
+
+# Front Matter Sections (before main content)
+front_matter_sections:
+  - "Dedication"
+  - "Epigraph"
+  - "Foreword"
+  - "Preface"
+  - "Acknowledgments"
+
+# Back Matter Sections (after main content)
+back_matter_sections:
+  - "Epilogue"
+  - "Afterword"
+  - "Appendices"
+  - "Glossary"
+  - "Notes & References"
+  - "Bibliography"
+  - "Index"
+  - "About the Author"
+  - "Other Books by Author"
+
+# Content Enhancement Features
+content_features:
+  case_studies: true
+  quiz_questions: true
+  summary_boxes: true
+  did_you_know: true
+  expert_quotes: true
+  real_world_examples: true
+
+# Citation Styles
+citation_styles:
+  - "APA"
+  - "MLA"
+  - "Chicago"
+  - "Harvard"
+
+# PDF Generation Settings
+pdf_settings:
+  default_engine: "xelatex"
+  fallback_engine: "pdflatex"
+  page_size: "6in x 9in"  # Standard ebook size
+  margin: "1in"
+  font:
+    main: "Georgia"
+    sans: "Arial"
+    mono: "Courier New"
+  toc_depth: 3
+  
+# Rate Limiting
+api_settings:
+  rate_limit_delay: 7.5  # seconds between API calls
+  max_retries: 3
+  retry_backoff: 22  # seconds

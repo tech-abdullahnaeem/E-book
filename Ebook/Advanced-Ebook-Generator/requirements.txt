@@ -1,0 +1,40 @@
+# ============================================================================
+# Advanced E-Book Generator - Python Dependencies
+# ============================================================================
+
+# Core Libraries
+requests==2.31.0
+pypandoc==1.11
+
+# Google AI Libraries
+google-generativeai==0.8.5
+google-api-python-client==2.175.0
+google-auth==2.40.3
+google-auth-oauthlib==1.2.2
+
+# Image Processing
+Pillow==10.1.0
+
+# CLI Interface Enhancement
+typer==0.15.2
+rich==13.7.0
+
+# Web Scraping for Research
+beautifulsoup4==4.12.2
+scholarly==1.7.11
+wikipedia==1.4.0
+
+# Citation Management
+scholarly==1.7.11
+
+# Content Enhancement
+nltk==3.8.1
+
+# Configuration Management
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# ============================================================================
+# Installation:
+# pip install -r requirements.txt
+# ============================================================================
